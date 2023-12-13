@@ -28,19 +28,24 @@ Anggota
 * ### (Tampilan setelah menambahkan barang ke Cart)
 ![WhatsApp Image 2023-12-13 at 16 42 32](https://github.com/katarinainezita/FP-PWEB-Spiccato/assets/90591077/dba1ca6a-4ff5-4d2c-974b-6996822a13b8)
 
+* ### cart.php (Cart Page - ketika tidak ada item yang dimasukkan dalam Cart)
+![WhatsApp Image 2023-12-13 at 16 44 15](https://github.com/katarinainezita/FP-PWEB-Spiccato/assets/90591077/bee40b12-a3e4-4d9b-aa59-bb2e35692d87)
+
 * ### cart.php (Cart Page)
 ![WhatsApp Image 2023-12-13 at 16 42 48](https://github.com/katarinainezita/FP-PWEB-Spiccato/assets/90591077/8c4efdbc-5dd0-45f0-ad81-c3f301ce1b6f)
 
 * ### (Tampilan setelah menghapus salah satu item di dalam Cart)
 ![WhatsApp Image 2023-12-13 at 16 43 04](https://github.com/katarinainezita/FP-PWEB-Spiccato/assets/90591077/2029b729-f3ec-43ec-b9da-c7103db65610)
 
-* ### success.php (Tampilan notifikasi telah berhasil melakuka pemesanan)
+* ### success.php (Tampilan notifikasi telah berhasil melakukan pemesanan)
 ![WhatsApp Image 2023-12-13 at 16 43 23](https://github.com/katarinainezita/FP-PWEB-Spiccato/assets/90591077/88c0dd92-d3c2-49d3-905c-79bcb9416aec)
 
+* ### orderhistory.php (Order History Page)
+![WhatsApp Image 2023-12-13 at 16 43 40](https://github.com/katarinainezita/FP-PWEB-Spiccato/assets/90591077/6500eb0a-0d56-4c17-9454-35f31f978786)
 
-![WhatsApp Image 2023-12-13 at 16 44 15](https://github.com/katarinainezita/FP-PWEB-Spiccato/assets/90591077/bee40b12-a3e4-4d9b-aa59-bb2e35692d87)
+* ### settings.php (Change Password Page)
+![WhatsApp Image 2023-12-13 at 16 43 56](https://github.com/katarinainezita/FP-PWEB-Spiccato/assets/90591077/570c423c-61e8-4805-bf4b-f05b431fda3e)
+
 ![WhatsApp Image 2023-12-13 at 16 44 45](https://github.com/katarinainezita/FP-PWEB-Spiccato/assets/90591077/f3b4c3d5-6f40-4991-be83-d5fa8bab2f78)
 ![WhatsApp Image 2023-12-13 at 16 44 56](https://github.com/katarinainezita/FP-PWEB-Spiccato/assets/90591077/30357629-2b64-4378-8bc0-6147a090720e)
 ![WhatsApp Image 2023-12-13 at 16 45 33](https://github.com/katarinainezita/FP-PWEB-Spiccato/assets/90591077/b813adaf-f4e1-4cb3-80e7-fcbe0fd071c4)
-![WhatsApp Image 2023-12-13 at 16 43 40](https://github.com/katarinainezita/FP-PWEB-Spiccato/assets/90591077/6500eb0a-0d56-4c17-9454-35f31f978786)
-![WhatsApp Image 2023-12-13 at 16 43 56](https://github.com/katarinainezita/FP-PWEB-Spiccato/assets/90591077/570c423c-61e8-4805-bf4b-f05b431fda3e)
