@@ -46,6 +46,11 @@ Anggota
 * ### settings.php (Change Password Page)
 ![WhatsApp Image 2023-12-13 at 16 43 56](https://github.com/katarinainezita/FP-PWEB-Spiccato/assets/90591077/570c423c-61e8-4805-bf4b-f05b431fda3e)
 
+* ### database "store" memiliki 3 tabel, yaitu items, users, dan user_item
 ![WhatsApp Image 2023-12-13 at 16 44 45](https://github.com/katarinainezita/FP-PWEB-Spiccato/assets/90591077/f3b4c3d5-6f40-4991-be83-d5fa8bab2f78)
+
+* ### isi table users
 ![WhatsApp Image 2023-12-13 at 16 44 56](https://github.com/katarinainezita/FP-PWEB-Spiccato/assets/90591077/30357629-2b64-4378-8bc0-6147a090720e)
+
+* ### isi table user_item
 ![WhatsApp Image 2023-12-13 at 16 45 33](https://github.com/katarinainezita/FP-PWEB-Spiccato/assets/90591077/b813adaf-f4e1-4cb3-80e7-fcbe0fd071c4)
